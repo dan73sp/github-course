@@ -1,5 +1,5 @@
 # Git Course
 
-Este é um repositório teste para ensinar como o Git functiona.
+Este é um repositório teste para ensinar como o Git funciona.
 
-Uma nova mensagem gravada aqui!
+Cool!
